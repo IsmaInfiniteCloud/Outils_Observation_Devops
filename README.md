@@ -36,6 +36,7 @@ IPv4	TCP	3000	0.0.0.0/0	Grafana
 IPv4	TCP	9090	0.0.0.0/0	Prometheus
 IPv4	TCP	3100	0.0.0.0/0	-
 IPv4	TCP	3030	0.0.0.0/0	-
+
 ----------------------------------------------------
 # Installation de Docker et Docker-Compose
 Exécutez le script d'installation de Docker :
